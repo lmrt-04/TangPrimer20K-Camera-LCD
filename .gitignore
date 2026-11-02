@@ -1,0 +1,12 @@
+﻿# Gowin 编译中间文件
+impl/
+temp/
+*.gprj.user
+*.log
+*.bak
+*.tmp
+
+# 系统
+Thumbs.db
+desktop.ini
+.DS_Store
